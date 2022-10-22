@@ -16,5 +16,3 @@ const GlobalStyles = createGlobalStyle`
 `
 
 export default GlobalStyles
-
-// passo número 1
